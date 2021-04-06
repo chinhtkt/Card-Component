@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.card-deck {
+  width: 100%;
+  justify-content: space-around;
+ 
+}
+
+.card-body {
+  height:200px;
 }
 
 .App-logo {
